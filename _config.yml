@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Siyuan Zhang"
-  avatar           : "images/avatar.jpg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  avatar           : "images/SiyuanZhang.jpg"
+  bio              : "Jiangnan University"
+  location         : "Wuxi, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com.hk/citations?user=1UpZ_CkAAAAJ&hl=zh-CN&oi=ao"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "maoubo"
+  github           : "uhif"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : # "https://orcid.org/0000-0001-5134-3044"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
