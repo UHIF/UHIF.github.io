@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Oubo Ma, a third-year PhD student at Zhejiang University in the NESA Lab, advised by Prof. [Shouling Ji](https://scholar.google.com.hk/citations?user=5HoF_9oAAAAJ&hl=zh-CN&oi=ao). My research focuses on the security of reinforcement learning (RL), including adversarial policies and backdoor attacks.
-
-My passion for RL originates from my love of puzzle games, which sparks my fascination with sequential decision-making processes. Over time, I observe that while most researchers prioritize improving the performance of RL algorithms across various tasks, there is comparatively less focus on addressing their security risks. This gap motivates me to explore the potential vulnerabilities of RL from multiple perspectives and to develop solutions aimed at improving the safety and reliability of RL in real-world applications. Outside of academics, I’m a passionate basketball fan and enjoy comedy. Feel free to email me if you’d like to chat about either of these topics!
+Hi, I’m Siyuan Zhang, a fourth-year PhD student at Jiangnan University, advised by Prof. Linbo Xie. My research focuses on the machine learning, trusty deep learning and model calibration.
 
 # 📝 Conference Publications 
-- [SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems.](https://arxiv.org/pdf/2402.03741) **Oubo Ma**, Yuwen Pu, Linkang Du, Yang Dai, Ruo Wang, Xiaolei Liu, Yingcai Wu, Shouling Ji. **CCS 2024**. 
-- [Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?](https://arxiv.org/pdf/2405.12094) Yang Dai, **Oubo Ma**, Longfei Zhang, Xingxing Liang, Shengchao Hu, Mengzhu Wang, Shouling Ji, Jincai Huang, Li Shen. **NeurIPS 2024**. 
-- [Text Laundering: Mitigating Malicious Features Through Knowledge Distillation of Large Foundation Models.](https://link.springer.com/chapter/10.1007/978-981-97-0945-8_1) Yi Jiang, Chenghui Shi, **Oubo Ma**, Youliang Tian, Shouling Ji. **Inscrypt 2023**. *Best Student Paper Award*.
+- Parametric ρ-norm scaling calibration. **Siyuan Zhang** and Linbo Xie. **AAAI 2025**. 
+- A PID controller approach for adaptive probability-dependent gradient decay in model calibration. **Siyuan Zhang** and Linbo Xie. **NeurIPS 2024**. 
+- Integrated optimization method of hidden parameters in incremental extreme learning machine. **Siyuan Zhang** and Linbo Xie. **IJCNN 2021**. 
 
 # 📝 Journal Publications 
 - [ABM-V: An Adaptive Backoff Mechanism for Mitigating Broadcast Storm in VANETs.](https://ieeexplore.ieee.org/abstract/document/10045795) **Oubo Ma**, Xuejiao Liu, Yingjie Xia. **IEEE Transactions on Vehicular Technology, 2023**. 
