@@ -31,7 +31,7 @@ Hi, I’m Siyuan Zhang, a PhD candidate at Jiangnan University, advised by Prof.
 - [Deep incremental random vector functional-link network: A non-iterative constructive sketch via greedy feature learning.](https://www.sciencedirect.com/science/article/abs/pii/S1568494623004283) **Siyuan Zhang** and Linbo Xie. **Applied Soft Computing, 2023**.
 - [Leader learning loss function in neural network classification.](https://www.sciencedirect.com/science/article/abs/pii/S0925231223008585) **Siyuan Zhang** and Linbo Xie. **Neurocomputing, 2023**.
 - [Penalized least squares classifier: classification by regression via iterative cost-sensitive learning.](https://link.springer.com/article/10.1007/s11063-023-11178-4) **Siyuan Zhang** and Linbo Xie. **Neural Processing Letters, 2023**.
-- [Grafting constructive algorithm in feedforward neural network learning.](https://link.springer.com/article/10.1007/s10489-022-04082-2) **Siyuan Zhang** and Linbo Xie. **Applied Intelligence, 2022.**.
+- [Grafting constructive algorithm in feedforward neural network learning.](https://link.springer.com/article/10.1007/s10489-022-04082-2) **Siyuan Zhang** and Linbo Xie. **Applied Intelligence, 2022**.
 <!-- # 📝 arXiv -->
 # 📖 Educations
 - *2021.09 - Present*, PH.D., Jiangnan University.
