@@ -20,18 +20,23 @@ redirect_from:
 Hi, I’m Siyuan Zhang, a fourth-year PhD student at Jiangnan University, advised by Prof. Linbo Xie. My research focuses on the machine learning, trusty deep learning and model calibration.
 
 # 📝 Conference Publications 
-- Parametric ρ-norm scaling calibration. **Siyuan Zhang** and Linbo Xie. **AAAI 2025**. 
-- A PID controller approach for adaptive probability-dependent gradient decay in model calibration. **Siyuan Zhang** and Linbo Xie. **NeurIPS 2024**. 
-- Integrated optimization method of hidden parameters in incremental extreme learning machine. **Siyuan Zhang** and Linbo Xie. **IJCNN 2021**. 
+- Parametric ρ-norm scaling calibration. **Siyuan Zhang** and Linbo Xie. **AAAI 2025**. (Accepted)
+- [A PID controller approach for adaptive probability-dependent gradient decay in model calibration.](https://openreview.net/pdf?id=fAnubdSFpn) **Siyuan Zhang** and Linbo Xie. **NeurIPS 2024**. 
+- [Integrated optimization method of hidden parameters in incremental extreme learning machine.](https://ieeexplore.ieee.org/document/9534095) **Siyuan Zhang** and Linbo Xie. **IJCNN 2021**. 
 
 # 📝 Journal Publications 
-- [ABM-V: An Adaptive Backoff Mechanism for Mitigating Broadcast Storm in VANETs.](https://ieeexplore.ieee.org/abstract/document/10045795) **Oubo Ma**, Xuejiao Liu, Yingjie Xia. **IEEE Transactions on Vehicular Technology, 2023**. 
-- [RLID-V: Reinforcement Learning-Based Information Dissemination Policy Generation in VANETs.](https://ieeexplore.ieee.org/abstract/document/10221772) Yingjie Xia, Xuejiao Liu, Jing Ou, **Oubo Ma**. **IEEE Transactions on Intelligent Transportation Systems, 2023**.
-- [HDRS: A Hybrid Reputation System with Dynamic Update interval for Detecting Malicious Vehicles in VANETs.](https://ieeexplore.ieee.org/abstract/document/9565821) Xuejiao Liu, **Oubo Ma**, Wei Chen, Yingjie Xia, Yuxuan Zhou. **IEEE Transactions on Intelligent Transportation Systems, 2022**.
+- [Inter-class margin climbing with cost-sensitive learning in neural network classification.](https://link.springer.com/article/10.1007/s10115-024-02279-0) **Siyuan Zhang**, Linbo Xie, Ying Chen and Shaoxin Zhang. **Knowledge and Information Systems, 2024**.
+- [A compound framework for short-term gas load forecasting combining time-enhanced perception transformer and two-stage feature extraction.](https://www.sciencedirect.com/science/article/abs/pii/S0360544224011381) Zijie Lin, Linbo Xie, **Siyuan Zhang**, Linbo Xie. **Energy, 2024**.
+- [Advancing neural network calibration: The role of gradient decay in large-margin optimization.](https://www.sciencedirect.com/science/article/abs/pii/S0893608024003812) **Siyuan Zhang** and Linbo Xie. **Neural Networks, 2024**.
+- [Real-time heart rate estimation algorithm based on adaptive spectrum correction and peak localization.](https://ieeexplore.ieee.org/document/10654703) Yitian Tan, Linbo Xie, Sulin Yang, **Siyuan Zhang**, Zhichao Xia, Peijue Ma. **IEEE Sensors Journal, 2024**.
+- [Deep incremental random vector functional-link network: A non-iterative constructive sketch via greedy feature learning.](https://www.sciencedirect.com/science/article/abs/pii/S1568494623004283) **Siyuan Zhang** and Linbo Xie. **Applied Soft Computing, 2023**.
+- [Leader learning loss function in neural network classification.](https://www.sciencedirect.com/science/article/abs/pii/S0925231223008585) **Siyuan Zhang** and Linbo Xie. **Neurocomputing, 2023**.
+- [Penalized least squares classifier: classification by regression via iterative cost-sensitive learning.](https://link.springer.com/article/10.1007/s11063-023-11178-4) **Siyuan Zhang** and Linbo Xie. **Neural Processing Letters, 2023**.
+- [Grafting constructive algorithm in feedforward neural network learning.](https://link.springer.com/article/10.1007/s10489-022-04082-2) **Siyuan Zhang** and Linbo Xie. **Applied Intelligence, 2022.**.
 
 <!-- # 📝 arXiv -->
 
 # 📖 Educations
-- *2022.09 - Present*, PH.D., Zhejiang University. 
-- *2019.09 - 2022.06*, M.E., Hangzhou Normal University. 
-- *2015.09 - 2019.06*, B.E., Wenzhou University. 
+- *2021.09 - Present*, PH.D., Jiangnan University.
+- *2019.09 - 2021.06*, M.E., Jiangnan University.
+- *2015.09 - 2019.06*, B.E., Jiangnan University. 
