@@ -20,7 +20,7 @@ redirect_from:
 Hi, I’m Siyuan Zhang, a fourth-year PhD student at Jiangnan University, advised by Prof. Linbo Xie. My research focuses on the machine learning, trusty deep learning and model calibration.
 
 # 📝 Conference Publications 
-- Parametric ρ-norm scaling calibration. **Siyuan Zhang** and Linbo Xie. **AAAI 2025**. (Accepted)
+- Parametric ρ-norm scaling calibration. **Siyuan Zhang** and Linbo Xie. **AAAI 2025**.
 
 
 # 📝 Journal Publications 
