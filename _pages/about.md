@@ -30,7 +30,7 @@ I’m a challenger of Teamfight Tactics in S2, S4, S6, S7, and S9. I’m also an
   
 # 📝 Journal Publications 
 - [Inter-class margin climbing with cost-sensitive learning in neural network classification.](https://link.springer.com/article/10.1007/s10115-024-02279-0) **Siyuan Zhang**, Linbo Xie, Ying Chen and Shaoxin Zhang. **Knowledge and Information Systems, 2024**.
-- [A compound framework for short-term gas load forecasting combining time-enhanced perception transformer and two-stage feature extraction.](https://www.sciencedirect.com/science/article/abs/pii/S0360544224011381) Zijie Lin, Linbo Xie, **Siyuan Zhang**, Linbo Xie. **Energy, 2024**.
+- [A compound framework for short-term gas load forecasting combining time-enhanced perception transformer and two-stage feature extraction.](https://www.sciencedirect.com/science/article/abs/pii/S0360544224011381) Zijie Lin, Linbo Xie, **Siyuan Zhang**. **Energy, 2024**.
 - [Advancing neural network calibration: The role of gradient decay in large-margin optimization.](https://www.sciencedirect.com/science/article/abs/pii/S0893608024003812) **Siyuan Zhang** and Linbo Xie. **Neural Networks, 2024**.
 - [Real-time heart rate estimation algorithm based on adaptive spectrum correction and peak localization.](https://ieeexplore.ieee.org/document/10654703) Yitian Tan, Linbo Xie, Sulin Yang, **Siyuan Zhang**, Zhichao Xia, Peijue Ma. **IEEE Sensors Journal, 2024**.
 - [Deep incremental random vector functional-link network: A non-iterative constructive sketch via greedy feature learning.](https://www.sciencedirect.com/science/article/abs/pii/S1568494623004283) **Siyuan Zhang** and Linbo Xie. **Applied Soft Computing, 2023**.
