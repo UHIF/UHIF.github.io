@@ -29,6 +29,7 @@ I’m a challenger of Teamfight Tactics in S2, S4, S6, S7, and S9. I’m also an
 - [Integrated optimization method of hidden parameters in incremental extreme learning machine.](https://ieeexplore.ieee.org/document/9534095) **Siyuan Zhang** and Linbo Xie. **IJCNN 2021**.
   
 # 📝 Journal Publications 
+- [Spatiotemporal image-based method for external breakage event recognition in long-distance distributed fiber optic sensing.](https://www.sciencedirect.com/science/article/abs/pii/S0957417425004877#:~:text=A%20novel%20signal%20processing%20method%20ASED%20is%20proposed,to%20demonstrate%20the%20effectiveness%20of%20the%20proposed%20method.) Zijie Lin, **Siyuan Zhang**, Zhichao Xia, Linbo Xie. **Expert Systems with Applications, 2025**.
 - [Inter-class margin climbing with cost-sensitive learning in neural network classification.](https://link.springer.com/article/10.1007/s10115-024-02279-0) **Siyuan Zhang**, Linbo Xie, Ying Chen and Shaoxin Zhang. **Knowledge and Information Systems, 2024**.
 - [A compound framework for short-term gas load forecasting combining time-enhanced perception transformer and two-stage feature extraction.](https://www.sciencedirect.com/science/article/abs/pii/S0360544224011381) Zijie Lin, Linbo Xie, **Siyuan Zhang**. **Energy, 2024**.
 - [Advancing neural network calibration: The role of gradient decay in large-margin optimization.](https://www.sciencedirect.com/science/article/abs/pii/S0893608024003812) **Siyuan Zhang** and Linbo Xie. **Neural Networks, 2024**.
