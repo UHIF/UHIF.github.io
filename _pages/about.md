@@ -24,7 +24,7 @@ I’m a challenger of Teamfight Tactics in S2, S4, S6, S7, and S9. I’m also an
 **I am currently looking for employment opportunities.**
 
 # 📝 Conference Publications 
-- Parametric ρ-norm scaling calibration. **Siyuan Zhang** and Linbo Xie. **AAAI 2025**. 
+- [Parametric ρ-norm scaling calibration.](https://ojs.aaai.org/index.php/AAAI/article/view/34413) **Siyuan Zhang** and Linbo Xie. **AAAI 2025**. 
 - [A PID controller approach for adaptive probability-dependent gradient decay in model calibration.](https://openreview.net/pdf?id=fAnubdSFpn) **Siyuan Zhang** and Linbo Xie. **NeurIPS 2024**. 
 - [Integrated optimization method of hidden parameters in incremental extreme learning machine.](https://ieeexplore.ieee.org/document/9534095) **Siyuan Zhang** and Linbo Xie. **IJCNN 2021**.
   
