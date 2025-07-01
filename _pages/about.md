@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Siyuan Zhang, a PhD candidate at Jiangnan University, advised by Prof. [Linbo Xie](https://iot.jiangnan.edu.cn/info/1141/3536.htm). My research focuses on the machine learning, trusty deep learning and model calibration.
+Hi, I’m Siyuan Zhang (张思源), a PhD candidate at Jiangnan University, advised by Prof. [Linbo Xie](https://iot.jiangnan.edu.cn/info/1141/3536.htm). My research focuses on the machine learning, trusty deep learning and model calibration.
 
-I’m a challenger of Teamfight Tactics in S2, S4, S6, S7, and S9. I’m also an Emerald rank player in League of Legends and a skilled Guandan player. I’ve been being a fan of Wang Leehom for 15 years. I drive an Avatr12. I believe the Cleveland Cavaliers will win the NBA Championship this season.
+I’m a challenger of Teamfight Tactics in S2, S4, S6, S7, and S9. I’m also an Emerald rank player in League of Legends and a skilled Guandan player. I’ve been being a fan of Wang Leehom for 15 years. I drive an Avatr12. 
 
 **I am currently looking for employment opportunities.**
 
