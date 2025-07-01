@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siyuan Zhang"
+title                    : "Siyuan Zhang (张思源)"
 description              : ""
 repository               : "maoubo/maoubo.github.io"
 google_scholar_stats_use_cdn : 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Siyuan Zhang"
+  name             : "Siyuan Zhang (张思源)"
   avatar           : "images/SiyuanZhang.jpg"
   bio              : "Jiangnan University"
   location         : "Wuxi, China"
